@@ -1,0 +1,16 @@
+Name	Value [mm]	Comment	Equation
+H	9.6	constant - block height
+P	8	constant - block length
+wall_thickness	1.4	constant - wall thickness
+wall_roof_thickness	1.2	constant
+
+bot_hole_inner_radius	5.12	constant
+bot_hole_outer_radius	6.72	constant
+
+top_peg_radius	4.9	constant
+top_peg_heigth	1.9	constant
+h	3.2	flat block height
+
+length	7.8	x, horizontal	length = P_lego-0,2mm
+width	7.8	y, vertical	width = P_lego-0,2mm
+height	9.6	z	heigth = H_lego
